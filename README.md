@@ -3,7 +3,7 @@ This is a Chat-Bot developed using React, Node, socket.io, openAI, MongoDB
 
 
 Video reference for the project explanation with working model======>"https://youtu.be/G-bJBEdt98Q"
-https://youtu.be/G-bJBEdt98Q
+
 
 Chatbot Application Documentation
 
